@@ -1,17 +1,18 @@
 ![Preview](Preview.png?raw=true "Preview")
 
 # Project
-Project Description.
+Description.
 
 ## Stack:
 
 OS\
+IDE\
 Language\
-IDE
+Framework
 
 ## Usage:
 
-1. Open project.
+1. Open solution.
 2. Run project.
 
 ## Syntax:
@@ -23,3 +24,31 @@ Executable [Action]
 ## Demo:
 
 http://Demo.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
