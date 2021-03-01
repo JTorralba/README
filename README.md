@@ -5,50 +5,23 @@ Description.
 
 ## Stack:
 
-OS\
-IDE\
-Language\
-Framework
+Windows 10 Professional\
+Visual Studio 2019 CE\
+C#\
+.NET Core 5.0
 
 ## Usage:
 
 1. Open solution.
-2. Run project.
+2. Compile and publish project(s).
+3. Excecute application.
 
 ## Syntax:
 
-Executable [Action]
+Executable [Argument(s)]
 
-*Action*:
+*Argument(s)*:
 
 ## Demo:
 
 http://Demo.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
