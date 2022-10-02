@@ -6,7 +6,7 @@ README implementation.
 
 ## Stack:
 
-Visual Studio Code\
+Visual Studio\
 C#\
 .NET
 
